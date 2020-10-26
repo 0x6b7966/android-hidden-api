@@ -19,7 +19,7 @@ import timber.log.Timber
  * An example class for Hidden API.
  *
  * If you plan to use only Android internal resources rather than internal classes or methods,
- * just add <br></br>`compile 'com.anggrayudi:android-hidden-api:0.0.7'`<br></br> library
+ * just add <br></br>`compile 'com.anggrayudi:android-hidden-api:30.0'`<br></br> library
  * to your app's module without need to replace `android.jar`. This version does not use
  * Java reflection anymore, and certainly safe.
  * See the [Usage](https://github.com/anggrayudi/android-hidden-api#usage).
